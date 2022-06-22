@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Operacoes_Matematicas/1.0.0": {
+        "runtime": {
+          "Operacoes_Matematicas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Operacoes_Matematicas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

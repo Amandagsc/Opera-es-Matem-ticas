@@ -1,0 +1,13 @@
+C:\Users\amanda.silva\Amanda\Amanda projetos\Operacoes_Matematicas\Operacoes_Matematicas\Operacoes_Matematicas\bin\Debug\netcoreapp3.1\Operacoes_Matematicas.exe
+C:\Users\amanda.silva\Amanda\Amanda projetos\Operacoes_Matematicas\Operacoes_Matematicas\Operacoes_Matematicas\bin\Debug\netcoreapp3.1\Operacoes_Matematicas.deps.json
+C:\Users\amanda.silva\Amanda\Amanda projetos\Operacoes_Matematicas\Operacoes_Matematicas\Operacoes_Matematicas\bin\Debug\netcoreapp3.1\Operacoes_Matematicas.runtimeconfig.json
+C:\Users\amanda.silva\Amanda\Amanda projetos\Operacoes_Matematicas\Operacoes_Matematicas\Operacoes_Matematicas\bin\Debug\netcoreapp3.1\Operacoes_Matematicas.runtimeconfig.dev.json
+C:\Users\amanda.silva\Amanda\Amanda projetos\Operacoes_Matematicas\Operacoes_Matematicas\Operacoes_Matematicas\bin\Debug\netcoreapp3.1\Operacoes_Matematicas.dll
+C:\Users\amanda.silva\Amanda\Amanda projetos\Operacoes_Matematicas\Operacoes_Matematicas\Operacoes_Matematicas\bin\Debug\netcoreapp3.1\Operacoes_Matematicas.pdb
+C:\Users\amanda.silva\Amanda\Amanda projetos\Operacoes_Matematicas\Operacoes_Matematicas\Operacoes_Matematicas\obj\Debug\netcoreapp3.1\Operacoes_Matematicas.csprojAssemblyReference.cache
+C:\Users\amanda.silva\Amanda\Amanda projetos\Operacoes_Matematicas\Operacoes_Matematicas\Operacoes_Matematicas\obj\Debug\netcoreapp3.1\Operacoes_Matematicas.AssemblyInfoInputs.cache
+C:\Users\amanda.silva\Amanda\Amanda projetos\Operacoes_Matematicas\Operacoes_Matematicas\Operacoes_Matematicas\obj\Debug\netcoreapp3.1\Operacoes_Matematicas.AssemblyInfo.cs
+C:\Users\amanda.silva\Amanda\Amanda projetos\Operacoes_Matematicas\Operacoes_Matematicas\Operacoes_Matematicas\obj\Debug\netcoreapp3.1\Operacoes_Matematicas.csproj.CoreCompileInputs.cache
+C:\Users\amanda.silva\Amanda\Amanda projetos\Operacoes_Matematicas\Operacoes_Matematicas\Operacoes_Matematicas\obj\Debug\netcoreapp3.1\Operacoes_Matematicas.dll
+C:\Users\amanda.silva\Amanda\Amanda projetos\Operacoes_Matematicas\Operacoes_Matematicas\Operacoes_Matematicas\obj\Debug\netcoreapp3.1\Operacoes_Matematicas.pdb
+C:\Users\amanda.silva\Amanda\Amanda projetos\Operacoes_Matematicas\Operacoes_Matematicas\Operacoes_Matematicas\obj\Debug\netcoreapp3.1\Operacoes_Matematicas.genruntimeconfig.cache
